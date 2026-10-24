@@ -1,0 +1,267 @@
+[
+  {
+    "pkg": "cn.zte.recorder",
+    "list": "Oem",
+    "desc": "ZTE Voice Recorder with... 33 permissions and talking with Baidu servers. Pithus analysis: https://beta.pithus.org/report/bab47d32f5b93cdf4d3a3cb082d1d0e7ba3e323356391b2d46e63617c1d15324"
+  },
+  {
+    "pkg": "com.android.cellbroadcast.overlay",
+    "list": "Oem",
+    "desc": "Unused overlay without code. Only for Test message."
+  },
+  {
+    "pkg": "com.android.egg",
+    "list": "Aosp",
+    "desc": "Android's easter egg feature (spam-tap on the android version in the settings)"
+  },
+  {
+    "pkg": "com.android.providers.partnerbookmarks",
+    "list": "Aosp",
+    "desc": "Provides bookmarks about partners of Google in Chrome."
+  },
+  {
+    "pkg": "com.android.remoteprovisioner",
+    "list": "Aosp",
+    "desc": "RemoteProvisioner. Have random stuff: security, notifications, accessibility, test modes, data usage, metrics, logs."
+  },
+  {
+    "pkg": "com.android.theme.font.notoserifsource",
+    "list": "Aosp",
+    "desc": "Noto Serif / Source Sans Pro"
+  },
+  {
+    "pkg": "com.android.traceur",
+    "list": "Aosp",
+    "desc": "System Tracing"
+  },
+  {
+    "pkg": "com.facebook.appmanager",
+    "list": "Misc",
+    "desc": "Facebook app manager handles Facebook apps updates."
+  },
+  {
+    "pkg": "com.facebook.katana",
+    "list": "Misc",
+    "desc": "Facebook app (https://play.google.com/store/apps/details?id=com.facebook.katana)"
+  },
+  {
+    "pkg": "com.facebook.orca",
+    "list": "Misc",
+    "desc": "Facebook Messenger (https://play.google.com/store/apps/details?id=com.facebook.orca)"
+  },
+  {
+    "pkg": "com.facebook.services",
+    "list": "Misc",
+    "desc": "Facebook Services is a tool that lets you manage different Facebook services automatically using your Android device."
+  },
+  {
+    "pkg": "com.google.android.adservices.api",
+    "list": "Aosp",
+    "desc": "Introduced in Android 13 privacy sandbox beta components disabled on default."
+  },
+  {
+    "pkg": "com.google.android.apps.docs",
+    "list": "Google",
+    "desc": "Google Drive (https://play.google.com/store/apps/details?id=com.google.android.apps.docs)"
+  },
+  {
+    "pkg": "com.google.android.apps.docs.editors.docs",
+    "list": "Google",
+    "desc": "Google Docs (https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs)"
+  },
+  {
+    "pkg": "com.google.android.apps.docs.editors.sheets",
+    "list": "Google",
+    "desc": "Google Sheets (https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets)"
+  },
+  {
+    "pkg": "com.google.android.apps.maps",
+    "list": "Google",
+    "desc": "Google Maps (https://play.google.com/store/apps/details?id=com.google.android.apps.maps)"
+  },
+  {
+    "pkg": "com.google.android.apps.restore",
+    "list": "Google",
+    "desc": "The backup restore wizard used for pulling Android system backups from your Google account."
+  },
+  {
+    "pkg": "com.google.android.apps.translate",
+    "list": "Google",
+    "desc": "Google Translate (https://play.google.com/store/apps/details?id=com.google.android.apps.translate)"
+  },
+  {
+    "pkg": "com.google.android.apps.youtube.music",
+    "list": "Google",
+    "desc": "YouTube Music (https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)"
+  },
+  {
+    "pkg": "com.google.android.as",
+    "list": "Google",
+    "desc": "Android System Intelligence (previously Device Personalization Services) (https://play.google.com/store/apps/details?id=com.google.android.as)"
+  },
+  {
+    "pkg": "com.google.android.as.oss",
+    "list": "Google",
+    "desc": "Private Compute Services. On-device behavior analysis"
+  },
+  {
+    "pkg": "com.google.android.calculator",
+    "list": "Google",
+    "desc": "Google Calculator (https://play.google.com/store/apps/details?id=com.google.android.calculator)"
+  },
+  {
+    "pkg": "com.google.android.calendar",
+    "list": "Google",
+    "desc": "Google Calendar (https://play.google.com/store/apps/details?id=com.google.android.calendar)"
+  },
+  {
+    "pkg": "com.google.android.federatedcompute",
+    "list": "Aosp",
+    "desc": "FederatedCompute."
+  },
+  {
+    "pkg": "com.google.android.feedback",
+    "list": "Google",
+    "desc": "This is the package that sends crash-report feedback to the Play Store? The crash pop-up still happens with this disabled."
+  },
+  {
+    "pkg": "com.google.android.gm",
+    "list": "Google",
+    "desc": "Gmail (https://play.google.com/store/apps/details?id=com.google.android.gm)"
+  },
+  {
+    "pkg": "com.google.android.gms.location.history",
+    "list": "Google",
+    "desc": "Google Location History"
+  },
+  {
+    "pkg": "com.google.android.gms.supervision",
+    "list": "Google",
+    "desc": "Family Link parental controls"
+  },
+  {
+    "pkg": "com.google.android.gmsintegration",
+    "list": "Oem",
+    "desc": "it's Google Sample Home Screen. Useless."
+  },
+  {
+    "pkg": "com.google.android.keep",
+    "list": "Google",
+    "desc": "Google Keep (https://play.google.com/store/apps/details?id=com.google.android.keep)"
+  },
+  {
+    "pkg": "com.google.android.ondevicepersonalization.services",
+    "list": "Aosp",
+    "desc": "OnDevicePersonalization."
+  },
+  {
+    "pkg": "com.google.android.onetimeinitializer",
+    "list": "Google",
+    "desc": "Provides first time setup, safe to remove."
+  },
+  {
+    "pkg": "com.google.android.tag",
+    "list": "Google",
+    "desc": "Support for NFC tags interactions (5 permissions : Contacts/Phone On by default)."
+  },
+  {
+    "pkg": "com.google.mainline.adservices",
+    "list": "Aosp",
+    "desc": "Adservices Train Version Package. AdServices too."
+  },
+  {
+    "pkg": "com.instagram.android",
+    "list": "Misc",
+    "desc": "Instagram  (https://play.google.com/store/apps/details?id=com.instagram.android)"
+  },
+  {
+    "pkg": "com.sprd.cameracalibration",
+    "list": "Oem",
+    "desc": "Camera calibration, tests."
+  },
+  {
+    "pkg": "com.sprd.engineermode",
+    "list": "Oem",
+    "desc": "Testing Hardware Components"
+  },
+  {
+    "pkg": "com.sprd.linkturbo",
+    "list": "Oem",
+    "desc": "For WiFi speed? Has useless logs. I ran a speed test with it enabled and disabled, I don't see anything different if not my internet is slightly better now along with other apps being disabled,"
+  },
+  {
+    "pkg": "com.sprd.logmanager",
+    "list": "Oem",
+    "desc": "YLog"
+  },
+  {
+    "pkg": "com.sprd.srmi",
+    "list": "Oem",
+    "desc": "Hidden logs in code only."
+  },
+  {
+    "pkg": "com.sprd.uasetting",
+    "list": "Oem",
+    "desc": "UserAgent Setting"
+  },
+  {
+    "pkg": "com.sprd.validationtools",
+    "list": "Oem",
+    "desc": "Hidden testing hardware and it has a lot of secret codes."
+  },
+  {
+    "pkg": "com.spreadtrum.sgps",
+    "list": "Oem",
+    "desc": "A Chinese spyware GPS system app, consider removing if your phone doesn't have a GPS sensor."
+  },
+  {
+    "pkg": "com.zhiliaoapp.musically",
+    "list": "Misc",
+    "desc": "TikTok App"
+  },
+  {
+    "pkg": "com.zte.easymode",
+    "list": "Oem",
+    "desc": "Easy mode"
+  },
+  {
+    "pkg": "com.zte.emode",
+    "list": "Oem",
+    "desc": "Testing Hardware Components"
+  },
+  {
+    "pkg": "com.zte.onekeycp",
+    "list": "Oem",
+    "desc": "Phone Switch"
+  },
+  {
+    "pkg": "com.zte.privacyzone",
+    "list": "Oem",
+    "desc": "App Lock"
+  },
+  {
+    "pkg": "com.zte.setupwizard",
+    "list": "Oem",
+    "desc": "Setup Wizard"
+  },
+  {
+    "pkg": "com.zte.zbackup.platservice",
+    "list": "Oem",
+    "desc": "ZteBackupService"
+  },
+  {
+    "pkg": "com.zte.zdmdaemon",
+    "list": "Oem",
+    "desc": "Useless logs, data collection."
+  },
+  {
+    "pkg": "com.zte.zdmdaemon.install",
+    "list": "Oem",
+    "desc": "Useless logs, data collection."
+  },
+  {
+    "pkg": "zpub.res",
+    "list": "Misc",
+    "desc": "third-party app pre-installed on ZTE phones."
+  }
+]

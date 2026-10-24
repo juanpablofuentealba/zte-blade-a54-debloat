@@ -1,0 +1,22 @@
+=== ZTE Blade A54 - Device Info ===
+Capturado: 2026-10-24 02:46 UTC
+
+ro.product.model = ZTE Blade A54
+ro.product.device = P963F64
+ro.product.brand = ZTE
+ro.product.manufacturer = ZTE
+ro.board.platform = sp9863a
+ro.soc.manufacturer = Spreadtrum
+ro.soc.model = SC9863A
+ro.build.version.release = 13
+ro.build.version.sdk = 33
+ro.build.display.id = MyOS13.0.1_A54_WOM_CL
+ro.build.fingerprint = ZTE/P963F64/P963F64:13/TP1A.220624.014/20231121.104944:user/release-keys
+ro.build.version.security_patch = 2023-11-05
+ro.build.date = Tue Nov 21 11:45:33 CST 2023
+
+=== CPU ===
+Hardware	: Unisoc L3R
+
+=== RAM ===
+MemTotal:        3960148 kB
