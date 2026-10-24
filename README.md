@@ -29,9 +29,39 @@ Guía completa para **desinstalar bloatware y spyware** del **ZTE Blade A54** (A
 - Un **ZTE Blade A54** (probablemente sirve en otros ZTE con MyOS/Unisoc).
 - **Termux** instalado (F-Droid o GitHub, **no** Play Store).
 - **Shizuku** instalado ([Play Store](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api) o [GitHub](https://github.com/RikkaApps/Shizuku)).
+- **pi.dev** instalado en Termux (el agente que ejecuta la guía — ver abajo).
 - Opcional: **Termux:API** (para leer datos de WiFi/batería).
 
 > No necesitas root, ni PC, ni cable USB.
+
+---
+
+## 🤖 Paso 0 — Instalar pi.dev en Termux
+
+Esta guía se diseñó para ejecutarse con **[pi](https://pi.dev)**, un agente de código para la terminal. Instálalo en Termux:
+
+```bash
+# Dentro de Termux
+pkg update && pkg install -y nodejs
+npm install -g @earendil-works/pi-coding-agent
+```
+
+Verifica la instalación:
+
+```bash
+pi --version
+```
+
+Luego inicia el agente dentro de la carpeta del repo:
+
+```bash
+cd zte-blade-a54-debloat
+pi
+```
+
+> 💡 Con pi puedes pedirle cosas como *"lee el README y ejecuta el debloat paso a paso"*, y el agente te guía o ejecuta los comandos por ti.
+
+> Si no quieres usar pi, igual puedes seguir la guía manualmente: los scripts `debloat.sh` y `restore.sh` funcionan solos con bash.
 
 ---
 
