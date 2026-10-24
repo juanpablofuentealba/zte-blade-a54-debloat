@@ -1,7 +1,7 @@
 # ZTE Blade A54 — Debloat Guide (Android 13 / MyOS)
 
 [![Hecho con pi](https://img.shields.io/badge/hecho%20con-pi.dev-7C3AED)](https://pi.dev)
-[![Hecho con DeepSeek](https://img.shields.io/badge/hecho%20con-DeepSeek-4D6BFE)](https://www.deepseek.com)
+[![Hecho con DeepSeek](https://img.shields.io/badge/hecho%20con-DeepSeek%20(OpenRouter)-4D6BFE)](https://openrouter.ai/deepseek)
 [![Android 13](https://img.shields.io/badge/Android-13%20(SDK%2033)-3DDC84)](https://www.android.com)
 [![Sin root](https://img.shields.io/badge/sin-root-brightgreen)](#)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
@@ -10,7 +10,7 @@ Guía completa para **desinstalar bloatware y spyware** del **ZTE Blade A54** (A
 
 > ✅ Probado y verificado en un ZTE Blade A54 real — **53 paquetes eliminados** sin root, sin PC y sin cable.
 > ⚠️ Todos los cambios son **reversibles**.
-> 🤖 Guía creada con [**pi.dev**](https://pi.dev) + [**DeepSeek**](https://www.deepseek.com).
+> 🤖 Guía creada con [**pi.dev**](https://pi.dev) + [**DeepSeek**](https://www.deepseek.com) vía [**OpenRouter**](https://openrouter.ai).
 
 ---
 
@@ -279,4 +279,4 @@ Este procedimiento se probó en **un** dispositivo concreto (ZTE Blade A54, buil
 - [Shizuku](https://github.com/RikkaApps/Shizuku) — por hacer posible el shell sin root.
 - [Canta](https://github.com/samolego/Canta) — alternativa con GUI usando Shizuku.
 - [pi.dev](https://pi.dev) — agente de código que guió y ejecutó el debloat.
-- [DeepSeek](https://www.deepseek.com) — modelo de IA que impulsó el agente.
+- [DeepSeek](https://www.deepseek.com) vía [OpenRouter](https://openrouter.ai) — modelo de IA que impulsó el agente.
